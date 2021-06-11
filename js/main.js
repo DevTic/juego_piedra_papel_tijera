@@ -48,7 +48,7 @@ function movimientoPc(){
 }
 
 function compracion(pc, usuario){
-    switch (pc+usuario){
+    switch (usuario+pc){
         case 'piedratijera':
         case 'papelpiedra':
         case 'tijerapapel':
