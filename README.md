@@ -17,7 +17,7 @@ _Herramientas utilizadas para la creación del proyecto_
 * [HTML]
 * [CSS]
 * [JavaScript]
-* 
+
 
 ## Autores ✒️
 
@@ -36,4 +36,4 @@ DevTic
 
 
 ---
-⌨️ con ❤️ por Dev Tic](https://twitter.com/dev_tics) 😊
+⌨️ con ❤️ por [Dev Tic](https://twitter.com/dev_tics) 😊
